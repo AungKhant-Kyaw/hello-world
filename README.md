@@ -1,2 +1,6 @@
 # hello-world
-A time-honored tradition in computer programming
+
+Hi Humans!!
+
+Aung Khant Kyaw here!! I am from Myanmar. 
+My major is Software Engineering. Yay!!
